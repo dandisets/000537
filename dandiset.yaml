@@ -5,7 +5,7 @@
 about: []
 access:
 - schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   approach: []
   dataStandard:
@@ -22,7 +22,7 @@ assetsSummary:
     name: Homo sapiens - Human
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Adam Cohen (2023) Scaling of GEVI Fluorescence with 1P and 2P Illumination
+citation: Adam Cohen (2024) Scaling of GEVI Fluorescence with 1P and 2P Illumination
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000537/draft
 contributor:
 - awardNumber: 1 R01 NS 126043-01
